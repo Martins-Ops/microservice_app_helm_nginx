@@ -8,7 +8,7 @@ This Project deploys a simple microservice (frontend and backend ) application t
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Martins-Ops/microservice_app_helm_nginx.git
 ```
 
 Go to the project directory
@@ -32,10 +32,6 @@ Start the server
 ## Backend
 
 Clone the project
-
-```bash
-  git clone https://link-to-project
-```
 
 Go to the project directory
 
